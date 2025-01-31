@@ -1,14 +1,13 @@
 
 # RestSphere
+🚀 RestSphere - A Full-Stack Web Application
 
-🚀 RestSphere is a full-stack web application, designed for users looking to rent properties, leave reviews, and manage their listings efficiently. It integrates secure authentication, interactive maps, and cloud-based image storage to provide a seamless experience.🚀
---
 
 ## 🌐 Project Overview
 RestSphere is a feature-rich full-stack web application developed using the **MERN** stack (MongoDB, Express.js, Node.js). It allows users to list, review, and manage rental properties, incorporating interactive maps and secure authentication mechanisms.
 ## 🖼️ Sample Screenshot
 ![RestSphere UI](https://github.com/user-attachments/assets/b00c1da5-d599-4f77-8f42-3c385b642fd0)
---
+
 
 ## 🛠️ Technologies & Packages Used
 - **Backend:**
@@ -33,7 +32,7 @@ RestSphere is a feature-rich full-stack web application developed using the **ME
   - Mapbox (Interactive Maps)
   - Passport Local & Passport Local Mongoose (User Authentication)
 
---
+
 
 ## 🌟 Key Features
 - **User Authentication:**
@@ -50,7 +49,7 @@ RestSphere is a feature-rich full-stack web application developed using the **ME
 - **Interactive Maps:**
   - Mapbox integration for location visualization
 
---
+
 
 ## 🛠 Installation & Setup
 ### Prerequisites
@@ -84,8 +83,6 @@ Ensure you have the following installed:
    ```
 5. **Visit the Application**
    Open [http://localhost:3000](http://localhost:3000) in your browser.
-
---
     ## 📂 Project Structure
 ```
 RestSphere/
@@ -97,7 +94,6 @@ RestSphere/
 │── package.json     # Project dependencies
 │── .env             # Environment variables
 ```
---
 ## 🚧 Challenges & Solutions
 1. **Data Handling Issues:**
    - Implemented structured API endpoints and efficient query handling.
@@ -108,16 +104,11 @@ RestSphere/
 4. **Session & Authentication Handling:**
    - Integrated Passport.js with Express Session and Connect Mongo.
 
---
-
 ## 💡 Future Enhancements
 - Implement booking functionality
 - Add payment gateway integration
 - Improve UI/UX with React frontend
 - Add an admin panel for property approvals
-
---
-
 ## 📩 Contact
 For any inquiries or feedback, reach out at:
 
